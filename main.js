@@ -1,5 +1,5 @@
 var timestamp = Date.parse(new Date());
-var time = timestamp/1000 - 1358006408;
+var time = timestamp/1000 - 1457006200;
 
 function timedCount()
 {
@@ -8,7 +8,7 @@ time = time + 1;
 t = setTimeout("timedCount()",1000);
 }
 
-/** 每三位数字添加一个逗号，方便阅读 **/
+
 
 function fmoney(s, n)   
 {   
