@@ -185,7 +185,7 @@ a:focus {
 #title .try {
     font-size: 64px;
     position: absolute;
-    top: -0.5em;
+    top: -1.0em;
     left: 5.5em;
     
     -webkit-transform: translateZ(20px);
